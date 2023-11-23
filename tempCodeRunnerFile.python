@@ -1,0 +1,10 @@
+charac = ['a','b','c']
+x,y,z = charac
+print(x,y)
+print(x+y)
+a = 3j
+b = 2
+c = complex(b)
+print(a+b)
+print(c)
+print(type(a))
